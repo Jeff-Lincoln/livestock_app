@@ -26,7 +26,6 @@ const Layout = () => {
         <Stack.Screen name="(auth)" options={{
           headerShown: false,
         }}/>
-
       </Stack.Protected>
     </Stack>
   )
